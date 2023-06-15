@@ -1,0 +1,1071 @@
+<!DOCTYPE html>
+<html lang="en" prefix="og: http://ogp.me/ns#">
+  <head>
+    
+    <title>CHOC Children&#039;s - Children&#039;s Hospital of Orange County</title>
+    <meta http-equiv="X-UA-Compatible" content="IE=Edge,chrome=1">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<meta charset="utf-8">
+
+    <!-- styles -->
+
+    	<link href="https://www.choc.org/wp/wp-content/themes/choc-bootstrap-3/bootstrap/css/bootstrap.min.css" rel="stylesheet">
+   
+    
+	<!-- jquery -->
+
+<script src="//ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+
+
+    <!-- wordpress -->
+
+	<link href="https://www.choc.org/wp/wp-content/themes/choc-bootstrap-3/style.css?111219" rel="stylesheet">
+
+    <!-- Fav and touch icons -->
+
+	    <link rel="apple-touch-icon-precomposed" sizes="144x144" href="https://www.choc.org/wp/wp-content/themes/choc-bootstrap-3/icons/choc-bookmark-logo-144.png">
+    	<link rel="apple-touch-icon-precomposed" sizes="114x114" href="https://www.choc.org/wp/wp-content/themes/choc-bootstrap-3/icons/choc-bookmark-logo-114.png">
+      	<link rel="apple-touch-icon-precomposed" sizes="72x72" href="https://www.choc.org/wp/wp-content/themes/choc-bootstrap-3/icons/choc-bookmark-logo-72.png">
+        <link rel="apple-touch-icon-precomposed" href="https://www.choc.org/wp/wp-content/themes/choc-bootstrap-3/icons/choc-bookmark-logo-57.png">
+        <link rel="shortcut icon" href="https://www.choc.org/wp/wp-content/themes/choc-bootstrap-3/icons/favicon.ico">
+
+<!-- HTML5 shim and Respond.js for IE support -->
+    <!--[if lt IE 9]>
+	<script src="https://www.choc.org/wp/wp-content/themes/choc-bootstrap-3/bootstrap/js/html5shiv.js"></script>
+	<script src="https://www.choc.org/wp/wp-content/themes/choc-bootstrap-3/bootstrap/js/respond.min.js"></script>
+    <![endif]-->
+
+
+<!-- stellar css for parallax subfooter -->
+
+<style type="text/css">
+		
+		.pxphoto {
+
+			background-attachment: fixed;
+			background-position: center;
+		
+			background-repeat: repeat;
+			position: relative;
+		}
+		
+		.px1 {
+			background-image: url(//www.choc.org/wp/wp-content/uploads/2018/11/llc-parallax.jpg);
+	        background-size: cover;
+			height: 800px;
+		}
+		
+		.px-xs {
+			background-image: url(//www.choc.org/wp/wp-content/uploads/2018/11/llc-parallax-xs.jpg);
+
+			height: 800px;
+		}
+
+                .largetitle {
+
+                        font-size: 2.5em; line-height:110%;
+                }
+		
+		</style>
+
+		<link href='//fonts.googleapis.com/css?family=Open+Sans:400,300,700,400italic' rel='stylesheet' type='text/css'>
+
+
+<!-- This site is optimized with the Yoast SEO plugin v12.5.1 - https://yoast.com/wordpress/plugins/seo/ -->
+<meta name="description" content="Named a best children&#039;s hospital by U.S. News &amp; World Report, CHOC Children&#039;s is defining the future of pediatric medicine."/>
+<meta name="robots" content="max-snippet:-1, max-image-preview:large, max-video-preview:-1"/>
+<link rel="canonical" href="https://www.choc.org/" />
+<meta property="og:locale" content="en_US" />
+<meta property="og:type" content="website" />
+<meta property="og:title" content="CHOC Children&#039;s - Children&#039;s Hospital of Orange County" />
+<meta property="og:description" content="Named a best children&#039;s hospital by U.S. News &amp; World Report, CHOC Children&#039;s is defining the future of pediatric medicine." />
+<meta property="og:url" content="https://www.choc.org/" />
+<meta property="og:site_name" content="CHOC Children&#039;s" />
+<meta property="og:image" content="https://www.choc.org/wp/wp-content/uploads/2016/02/CHOCChildrens_logo.png" />
+<meta property="og:image:secure_url" content="https://www.choc.org/wp/wp-content/uploads/2016/02/CHOCChildrens_logo.png" />
+<meta property="og:image:width" content="450" />
+<meta property="og:image:height" content="450" />
+<meta name="twitter:card" content="summary" />
+<meta name="twitter:description" content="Named a best children&#039;s hospital by U.S. News &amp; World Report, CHOC Children&#039;s is defining the future of pediatric medicine." />
+<meta name="twitter:title" content="CHOC Children&#039;s - Children&#039;s Hospital of Orange County" />
+<meta name="twitter:site" content="@chocchildrens" />
+<meta name="twitter:image" content="https://www.choc.org/wp/wp-content/uploads/2016/02/CHOCChildrens_logo.png" />
+<meta name="twitter:creator" content="@chocchildrens" />
+<script type='application/ld+json' class='yoast-schema-graph yoast-schema-graph--main'>{"@context":"https://schema.org","@graph":[{"@type":"Organization","@id":"https://www.choc.org/#organization","name":"CHOC Children&#039;s - Children&#039;s Hospital of Orange County","url":"https://www.choc.org/","sameAs":["https://www.facebook.com/CHOCChildrens/","https://www.instagram.com/chocchildrens","https://www.linkedin.com/company/choc-childrens","https://www.youtube.com/user/chocchildrens","https://www.pinterest.com/chocchildrens/","https://twitter.com/chocchildrens"],"logo":{"@type":"ImageObject","@id":"https://www.choc.org/#logo","url":"https://www.choc.org/wp/wp-content/uploads/2019/02/CHOC-STACKED-LOGO-single-blue-with-black-tagline.png","width":776,"height":814,"caption":"CHOC Children&#039;s - Children&#039;s Hospital of Orange County"},"image":{"@id":"https://www.choc.org/#logo"}},{"@type":"WebSite","@id":"https://www.choc.org/#website","url":"https://www.choc.org/","name":"CHOC Children&#039;s","publisher":{"@id":"https://www.choc.org/#organization"},"potentialAction":{"@type":"SearchAction","target":"https://www.choc.org/?s={search_term_string}","query-input":"required name=search_term_string"}},{"@type":"WebPage","@id":"https://www.choc.org/#webpage","url":"https://www.choc.org/","inLanguage":"en-US","name":"CHOC Children&#039;s - Children&#039;s Hospital of Orange County","isPartOf":{"@id":"https://www.choc.org/#website"},"about":{"@id":"https://www.choc.org/#organization"},"datePublished":"2014-08-14T13:51:18+00:00","dateModified":"2019-11-18T13:03:09+00:00","description":"Named a best children's hospital by U.S. News & World Report, CHOC Children's is defining the future of pediatric medicine."}]}</script>
+<!-- / Yoast SEO plugin. -->
+
+<link rel='dns-prefetch' href='//assets.juicer.io' />
+<link rel='dns-prefetch' href='//s.w.org' />
+		<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/12.0.0-1\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/12.0.0-1\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/www.choc.org\/wp\/wp-includes\/js\/wp-emoji-release.min.js?ver=5.2.4"}};
+			!function(a,b,c){function d(a,b){var c=String.fromCharCode;l.clearRect(0,0,k.width,k.height),l.fillText(c.apply(this,a),0,0);var d=k.toDataURL();l.clearRect(0,0,k.width,k.height),l.fillText(c.apply(this,b),0,0);var e=k.toDataURL();return d===e}function e(a){var b;if(!l||!l.fillText)return!1;switch(l.textBaseline="top",l.font="600 32px Arial",a){case"flag":return!(b=d([55356,56826,55356,56819],[55356,56826,8203,55356,56819]))&&(b=d([55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447],[55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447]),!b);case"emoji":return b=d([55357,56424,55356,57342,8205,55358,56605,8205,55357,56424,55356,57340],[55357,56424,55356,57342,8203,55358,56605,8203,55357,56424,55356,57340]),!b}return!1}function f(a){var c=b.createElement("script");c.src=a,c.defer=c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var g,h,i,j,k=b.createElement("canvas"),l=k.getContext&&k.getContext("2d");for(j=Array("flag","emoji"),c.supports={everything:!0,everythingExceptFlag:!0},i=0;i<j.length;i++)c.supports[j[i]]=e(j[i]),c.supports.everything=c.supports.everything&&c.supports[j[i]],"flag"!==j[i]&&(c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&c.supports[j[i]]);c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&!c.supports.flag,c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.everything||(h=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",h,!1),a.addEventListener("load",h,!1)):(a.attachEvent("onload",h),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),g=c.source||{},g.concatemoji?f(g.concatemoji):g.wpemoji&&g.twemoji&&(f(g.twemoji),f(g.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script>
+		<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+	<link rel='stylesheet' id='juicerstyle-css'  href='//assets.juicer.io/embed.css?ver=5.2.4' type='text/css' media='all' />
+<link rel='stylesheet' id='wp-block-library-css'  href='https://www.choc.org/wp/wp-includes/css/dist/block-library/style.min.css?ver=5.2.4' type='text/css' media='all' />
+<script type='text/javascript' src='https://www.choc.org/wp/wp-includes/js/jquery/jquery.js?ver=1.12.4-wp'></script>
+<script type='text/javascript' src='https://www.choc.org/wp/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.4.1'></script>
+<script type='text/javascript' src='//assets.juicer.io/embed-no-jquery.js?ver=5.2.4'></script>
+<link rel='https://api.w.org/' href='https://www.choc.org/wp-json/' />
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://www.choc.org/wp/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="https://www.choc.org/wp/wp-includes/wlwmanifest.xml" /> 
+<meta name="generator" content="WordPress 5.2.4" />
+<link rel='shortlink' href='https://www.choc.org/' />
+<link rel="alternate" type="application/json+oembed" href="https://www.choc.org/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.choc.org%2F" />
+<link rel="alternate" type="text/xml+oembed" href="https://www.choc.org/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.choc.org%2F&#038;format=xml" />
+<!-- Start Fluid Video Embeds Style Tag -->
+<style type="text/css">
+/* Fluid Video Embeds */
+.fve-video-wrapper {
+    position: relative;
+    overflow: hidden;
+    height: 0;
+    background-color: transparent;
+    padding-bottom: 56.25%;
+    margin: 0.5em 0;
+}
+.fve-video-wrapper iframe,
+.fve-video-wrapper object,
+.fve-video-wrapper embed {
+    position: absolute;
+    display: block;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+}
+.fve-video-wrapper a.hyperlink-image {
+    position: relative;
+    display: none;
+}
+.fve-video-wrapper a.hyperlink-image img {
+    position: relative;
+    z-index: 2;
+    width: 100%;
+}
+.fve-video-wrapper a.hyperlink-image .fve-play-button {
+    position: absolute;
+    left: 35%;
+    top: 35%;
+    right: 35%;
+    bottom: 35%;
+    z-index: 3;
+    background-color: rgba(40, 40, 40, 0.75);
+    background-size: 100% 100%;
+    border-radius: 10px;
+}
+.fve-video-wrapper a.hyperlink-image:hover .fve-play-button {
+    background-color: rgba(0, 0, 0, 0.85);
+}
+</style>
+<!-- End Fluid Video Embeds Style Tag -->
+		<style type="text/css" id="wp-custom-css">
+			/*
+You can add your own CSS here.
+
+Click the help icon above to learn more.
+*/
+
+.hs-form-261fdf75-a20c-4c7b-aa77-7e3e7a24cc04_79af9da0-bdbe-4c6e-a79f-10d7437b4be3 fieldset {max-width: 100% !important;}
+		</style>
+		
+<!-- Post status check -->
+		
+<!-- Status -->
+
+
+</head>
+<body>
+<!-- Google Tag Manager -->
+<noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-KXPFN8"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-KXPFN8');</script>
+<!-- End Google Tag Manager -->
+
+<a class="screen-reader-text" href="#skipnavbar">Skip to main content</a>
+<a class="screen-reader-text" href="#searchchoc">Skip to choc.org search</a>
+<div id="header" role="banner">
+ <!-- Static navbar -->
+<div id="nav" role="navigation">
+    <div class="navbar navbar-default navbar-fixed-top">
+      <div class="container">
+        <div class="navbar-header">
+          <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+          </button>
+          <a class="navbar-brand visible-xs visible-sm" href="//www.choc.org/"><img src="/wp/wp-content/uploads/2014/02/choco-navbar.png" border="0" alt="CHOC Children&#039;s" /></a>
+<a class="navbar-brand hidden-xs hidden-sm" href="//www.choc.org/"><img src="/images/choc-logo-2014.png" width="195" border="0" alt="CHOC Children&#039;s"/></a>
+        </div>
+        <div class="navbar-collapse collapse">
+<ul class="nav navbar-nav navbar-right">
+<li class="dropdown">
+
+<a href="#" class="dropdown-toggle" data-toggle="dropdown">ABOUT <b class="caret"></b></a>
+
+<ul class="dropdown-menu">
+
+<li><a href="tel:7149973000">Main Number: 714-997-3000</a></li>
+<li><a href="tel:7145093200">Customer Service: 714-509-3200</a></li>
+<li><a href="/about/contact-us/?link=top-nav">Contact Us / Directions</a></li>
+
+<li class="divider"></li>
+
+<li class="dropdown-header" style="color: #296dba"><strong>ABOUT</strong></li>
+<li><a href="/about/?link=top-nav">About CHOC</a></li>
+<li><a href="/pressroom/?link=top-nav">Press Room</a></li>
+<li><a href="/quality/?link=top-nav">Quality and Patient Safety</a></li>
+<li><a href="/patients-family/patient-and-family-centered-care/?link=top-nav">Patient and Family Centered Care</a></li>
+<li><a href="/chocdocs/?link=top-nav">CHOC Docs / Providers</a></li>
+<li><a href="/careers/residency-training-programs/?link=top-nav">Residency / Training Programs</a></li>
+<li><a href="/giving/?link=top-nav">CHOC Foundation</a></li>
+
+
+<li class="divider"></li>
+
+<li class="dropdown-header" style="color: #296dba"><strong>LOCATIONS</strong></li>
+<li><a href="/locations/choc-childrens-main-campus-orange/?link=top-nav">Main Campus in Orange</a></li>
+<li><a href="/choc-childrens-mission-hospital/?link=top-nav">CHOC at Mission Hospital</a></li>
+<li><a href="/content/locations/?tag=health-centers&orderby=title&order=asc&link=top-nav">Specialty Centers</a></li>
+<li><a href="/careers/?link=top-nav">Human Resources</a></li>  
+<li><a href="/content/locations/?orderby=title&order=asc&link=top-nav"><strong>List ALL CHOC Locations</strong></a></li>
+</ul>
+</li> 
+             
+<li class="dropdown">
+
+    <a href="#" class="dropdown-toggle" data-toggle="dropdown">SERVICES <b class="caret"></b></a>
+    <ul class="dropdown-menu">
+    <li class="dropdown-header" style="color: #296dba"><strong>PRIMARY SERVICES</strong></li>
+    <li><a href="/primary-care/?link=top-nav">Wellness and Primary Care</a></li>   
+    <li><a href="/specialty-care/?link=top-nav">Specialty Services</a></li>
+    <li><a href="/programs-services/mental-health/?link=top-nav">Mental Health</a></li>
+
+<li class="divider"></li>
+
+    <li class="dropdown-header" style="color: #296dba"><strong>OUR INSTITUTES</strong></li>
+    <li><a href="/cancer/?link=top-nav">Cancer</a></li>   
+	<li><a href="/heart/?link=top-nav">Heart</a></li>
+    <li><a href="/neuroscience/?link=top-nav">Neuroscience</a></li>
+    <li><a href="/orthopaedics/?link=top-nav">Orthopaedics</a></li>
+    <li><a href="/research/?link=top-nav">Research</a></li>
+    <li><a href="/medical-intelligence-and-innovation-institute/?link=top-nav">Innovation</a></li>				
+<li class="divider"></li>
+
+<li class="dropdown-header" style="color: #296dba"><strong>FEATURED SERVICES</strong></li>
+<li><a href="/programs-services/emergency/?link=top-nav" style="color: red;"><strong>Emergency Department</strong></a></li>
+<li><a href="/programs-services/surgery/?link=top-nav">Surgical Services</a></li>
+<li><a href="/programs-services/nicu/?link=top-nav">Neonatology</a></li>
+
+<li class="divider"></li>
+
+<li><a href="/programs-services/?link=top-nav"><strong>List of ALL CHOC Services</strong></a></li>
+       </ul>
+            </li>
+
+<li class="dropdown">
+              <a href="#" class="dropdown-toggle" data-toggle="dropdown">I WANT TO... <b class="caret"></b></a>
+              <ul class="dropdown-menu">
+<li><a href="/find-a-provider/?link=top-nav">Find a Provider</a></li>
+<li><a href="/patients-family/make-an-appointment/?link=top-nav">Make an Appointment</a></li>
+<li><a href="/choc-link/?link=top-nav">Access CHOC Link</a></li>
+<li><a href="/careers/?link=top-nav">Explore Career Opportunities</a></li>
+<li><a href="/content/health-topics/?link=top-nav">Research Health Topics</a></li>
+<li><a href="/content/locations/?orderby=title&order=asc&link=top-nav">Get Directions</a></li>
+<li><a href="/patients-family/pay-bill/?link=top-nav">Pay My Bill</a></li>  
+<li><a href="/patients-family/medical-records-billing/?link=top-nav">Request Medical Records</a></li>     
+<li><a href="/chocdocs/referrals/?link=top-nav">Refer a Patient</a></li>
+<li><a href="/patients-family/visitor-information/?link=top-nav">Visit a Patient</a></li>
+
+<li class="divider"></li>
+
+<li class="dropdown-header" style="color: #296dba"><strong>CONNECT</strong></li>
+<li><a href="/about/sign-up-for-mailing-list/?link=top-nav">Sign up for eNewsletter</a></li>
+<li><a href="/about/stay-connected/#social-media">Follow CHOC on Social Media</a></li>
+<li><a href="//blog.chocchildrens.org/?link=top-nav">Read the CHOC Blog</a></li>
+<li><a href="/content/events/?link=top-nav">Attend an Event</a></li>
+
+<li class="divider"></li>
+
+<li class="dropdown-header" style="color: #296dba"><strong>HELP</strong></li>
+<li><a href="https://app.mobilecause.com/public/campaigns_keywords/26586/donations/new?link=top-nav">Donate Online</a></li>
+<li><a href="/programs-services/blood-donor-services/?link=top-nav">Donate Blood</a></li>
+<li><a href="/volunteer/?link=top-nav">Volunteer</a></li>
+<li><a href="/programs-services/child-life/wish-list/">Donate Toys</a></li> 
+<li><a href="/giving/#how-can-I-help"><strong>Find More Ways to Help</strong></a></li> 
+
+</ul>
+</li>
+
+<li>
+<div class="input-group" style="padding-top:9px;padding-left:7px;">
+<a href="https://app.mobilecause.com/public/campaigns_keywords/26586/donations/new/?link=top-nav-btn-bl"><button type="button" class="btn btn-primary">DONATE</button></a>
+</div>
+</li>
+
+<li>
+<form role="search" action="https://www.choc.org/" class="navbar-form navbar-right" style="max-width:200px;">
+   <div id="searchchoc" class="input-group" style="padding-left:10px;">
+     <input type="Search" name="s" placeholder="Search..." class="form-control" />
+       <div class="input-group-btn">
+           <button class="btn btn-primary" aria-label="Submit search">
+           <span class="glyphicon glyphicon-search"></span>
+           </button>
+       </div>
+   </div>
+</form>
+</li>
+</ul>
+</div><!--/.nav-collapse -->
+</div>
+</div>
+</div>
+</div><!--/header role banner -->
+<div id="skipnavbar"></div>
+<div id="main" role="main">
+
+<!--/* 
+  *
+  * Text Creative
+  * 
+  *
+  */-->
+
+<ins data-revive-zoneid="67" data-revive-id="4238ea9fb228ecdc4ee5a3edc4919eca"></ins>
+<script async src="//creative.chocchildrens.net/ras/www/delivery/asyncjs.php"></script>
+
+
+
+<!--/* 
+  *
+  * Creative
+  * 
+  *
+  */-->
+
+<div id="openxaccordion" class="hidden-xs img-responsive no-print" style="height:auto;padding-bottom:20px;padding-top:0px; text-align: center;">
+
+<ins data-revive-zoneid="76" data-revive-id="4238ea9fb228ecdc4ee5a3edc4919eca"></ins>
+<script async src="//creative.chocchildrens.net/ras/www/delivery/asyncjs.php"></script>
+
+</div><!-- /desktop creative -->
+
+<div class="visible-xs pagination-centered" style="padding-bottom:30px;text-align:center;">
+
+<ins data-revive-zoneid="76" data-revive-id="4238ea9fb228ecdc4ee5a3edc4919eca"></ins>
+<script async src="//creative.chocchildrens.net/ras/www/delivery/asyncjs.php"></script>
+
+</div><!-- /mobile creative -->
+
+ 
+
+ 
+
+
+<!-- Breadcrumbs -->
+
+<div id="breadcrumbs" class="container" style="padding-bottom:10px;">
+
+
+   
+
+</div><!-- /breadcrumbs -->
+
+
+
+<!-- Sidebar Widget Area -->
+
+<div class="container choc-section-no-color" style="padding-bottom: 0px;">
+<div class="row">
+
+	
+			
+
+</div>
+</div>
+
+<!-- Title Bar -->
+
+<div id="title-bar" class="container" style="padding-bottom:0px;padding-top:0px;">
+    
+<div class="row">
+      
+<div class="text-center"><h1>Illness or injury shouldn&#039;t put childhood on pause.</h1></div><!-- /section header -->
+
+</div><!-- /row -->
+</div><!-- /container -->
+
+
+
+
+<!-- Intro Two Column Block -->
+
+<div id="">
+
+<div class="container choc-section">
+
+ <div class="row">
+               
+                 
+       <div class="col-sm-12">
+
+
+<p>At CHOC Children’s, <em><strong>Long Live Childhood</strong></em> is our mantra. It is our rallying cry. We live it. We breathe it. We practice it. Every day. In every way. That&#8217;s why we’ve assembled a mighty brigade of pediatric experts, premier facilities and generous donors dedicated to giving kids the best chance of growing into healthy and happy adults.</p>
+<p><span data-offset-key="8s8ss-0-0"> </span></p>
+<div class="row hidden-xs" style="text-align: center;">
+<div class="col-md-2" style="margin-top: 20px;">
+<p><img src="/wp/wp-content/uploads/2018/11/choc-icons-careers.png" alt="" width="100" /></p>
+<div style="line-height: 1.1em; font-size: 150%;" align="center"><a href="/careers/?link=home-icon">CAREERS</a></div>
+</div>
+<p><!-- /column --></p>
+<div class="col-md-2" style="margin-top: 10px; text-align: center;">
+<p><img src="/wp/wp-content/uploads/2018/11/choc-icons-provider.png" alt="" width="100" /></p>
+<div style="line-height: 1.1em; font-size: 150%;" align="center"><a href="/find-a-provider/?link=home-icon">FIND A<br />
+PROVIDER</a></div>
+</div>
+<p><!-- /column --></p>
+<div class="col-md-2" style="margin-top: 10px; text-align: center;">
+<p><img src="/wp/wp-content/uploads/2018/11/choc-icons-locations.png" alt="" width="100" /></p>
+<div style="line-height: 1.1em; font-size: 150%;" align="center"><a href="/content/locations/?link=home-icon&amp;orderby=title&amp;order=asc">LOCATIONS</a></div>
+</div>
+<p><!-- /column --></p>
+<div class="col-md-2" style="margin-top: 10px; text-align: center;">
+<p><img src="/wp/wp-content/uploads/2018/11/choc-icons-contact.png" alt="" width="100" /></p>
+<div style="line-height: 1.1em; font-size: 150%;" align="center"><a href="/about/contact-us/?link=home-icon">CONTACT US</a></div>
+</div>
+<p><!-- /column --></p>
+<div class="col-md-2" style="margin-top: 10px; text-align: center;">
+<p><img src="/wp/wp-content/uploads/2018/11/choc-icons-refer-patient.png" alt="" width="100" /></p>
+<div style="line-height: 1.1em; font-size: 150%;" align="center"><a href="/chocdocs/referrals/?link=home-icon">REFER A PATIENT</a></div>
+</div>
+<p><!-- /column --></p>
+<div class="col-md-2" style="margin-top: 10px; text-align: center;">
+<p><img src="/wp/wp-content/uploads/2018/11/choc-icons-choc-link.png" alt="" width="100" /></p>
+<div style="line-height: 1.1em; font-size: 150%;" align="center"><a href="/choc-link/?link=home-icon">CHOC LINK</a></div>
+</div>
+<p><!-- /column --></p>
+</div>
+<p><!-- /row --></p>
+<p><!-- mobile view --></p>
+<div class="row visible-xs" style="text-align: center;">
+<div class="col-md-12" style="margin-top: 10px;">
+<table class="table">
+<tbody>
+<tr>
+<td style="border-top: 0px;"><img src="/wp/wp-content/uploads/2018/11/choc-icons-careers.png" alt="" width="100" /></p>
+<div style="line-height: 1.1em; font-size: 150%;" align="center"><a href="/careers/?link=home-icon">CAREERS</a></div>
+</td>
+<td style="border-top: 0px;"><img src="/wp/wp-content/uploads/2018/11/choc-icons-provider.png" alt="" width="100" /></p>
+<div style="line-height: 1.1em; font-size: 150%;" align="center"><a href="/find-a-provider/?link=home-icon">FIND A<br />
+PROVIDER</a></div>
+</td>
+</tr>
+<tr>
+<td style="border-top: 0px;"><img src="/wp/wp-content/uploads/2018/11/choc-icons-locations.png" alt="" width="100" /></p>
+<div style="line-height: 1.1em; font-size: 150%;" align="center"><a href="/content/locations/?link=home-icon&amp;orderby=title&amp;order=asc">LOCATIONS</a></div>
+</td>
+<td style="border-top: 0px;"><img src="/wp/wp-content/uploads/2018/11/choc-icons-contact.png" alt="" width="100" /></p>
+<div style="line-height: 1.1em; font-size: 150%;" align="center"><a href="/about/contact-us/?link=home-icon">CONTACT US</a></div>
+</td>
+</tr>
+<tr>
+<td style="border-top: 0px;"><img src="/wp/wp-content/uploads/2018/11/choc-icons-refer-patient.png" alt="" width="100" /></p>
+<div style="line-height: 1.1em; font-size: 150%;" align="center"><a href="/chocdocs/referrals/?link=home-icon">REFER A<br />
+PATIENT</a></div>
+</td>
+<td style="border-top: 0px;"><img src="/wp/wp-content/uploads/2018/11/choc-icons-choc-link.png" alt="" width="100" /></p>
+<div style="line-height: 1.1em; font-size: 150%;" align="center"><a href="/choc-link/?link=home-icon">CHOC LINK</a></div>
+</td>
+</tr>
+</tbody>
+</table>
+</div>
+<p><!-- /column --></p>
+</div>
+<p><!-- /row --></p>
+
+
+
+
+
+</div><!-- /column -->
+
+
+</div><!-- /row -->
+
+</div><!-- /container -->
+</div><!-- /color -->
+
+
+
+  
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+
+ 
+
+
+ 
+
+
+
+
+ 
+
+<!-- HTML Block -->
+
+<div id="" style="background:#f2f2f2">
+
+<div class="container choc-section">
+
+<div class="row">
+<div class="text-center">
+<h1>A World-Class Destination for Children&#8217;s Health</h1>
+</div>
+<div class="col-md-4 text-center">
+<div class="choc-menu-white" style="padding: 0px;">
+<div><a href="/primary-care/?link=home-page"><img src="/wp/wp-content/uploads/2018/11/home-primary-care-360x240.jpg" alt="Girl underwater in pool with pink goggles" width="100%" /></a></div>
+<div style="line-height: 1.1em; font-size: 150%; margin-top: 20px;" align="center"><a href="/primary-care/?link=home-page">WELLNESS AND PRIMARY CARE</a></div>
+<div class="choc-section-caption">
+<p style="padding: 20px;">We know you are the ultimate protector of your children&#8217;s health. That&#8217;s why we partner with you in 16 convenient locations throughout Southern California to help you keep them healthy.</p>
+</div>
+</div>
+</div>
+<hr class="hrmobile visible-xs" />
+<div class="col-md-4 text-center">
+<div class="choc-menu-white" style="padding: 0px;">
+<div><a href="/specialty-care/?link=home-page"><img src="/wp/wp-content/uploads/2018/11/home-specialty-services-360x240.jpg" alt="Smiling girl hanging upside down" width="100%" /></a></div>
+<div style="line-height: 1.1em; font-size: 150%; margin-top: 20px;" align="center"><a href="/specialty-care/?link=home-page">SPECIALTY SERVICES</a></div>
+<div class="choc-section-caption">
+<p style="padding: 20px;">Illness or injury is scary, especially when it comes to your kids. By choosing world-class healthcare experts, your kids receive treatments &amp; services in facilities designed especially for them.</p>
+</div>
+</div>
+</div>
+<hr class="hrmobile visible-xs" />
+<div class="col-md-4 text-center">
+<div class="choc-menu-white" style="padding: 0px;">
+<div><a href="/programs-services/mental-health/?link=home-page"><img class="alignnone" src="/wp/wp-content/uploads/2018/11/home-mental-health-360x240.jpg" alt="Sad girl wearing headphones staring out car window" width="100%" /></a></div>
+<div style="line-height: 1.1em; font-size: 150%; margin-top: 20px;" align="center"><a href="/programs-services/mental-health/?link=home-page">MENTAL HEALTH</a></div>
+<div class="choc-section-caption">
+<p style="padding: 20px;">1 in 5 young people in the U.S. has a mental health disorder. We believe mental health is just as important as physical health. That&#8217;s why CHOC is leading the charge to end the stigma surrounding mental illness.</p>
+</div>
+</div>
+</div>
+<hr class="hrmobile visible-xs" />
+</div>
+
+
+
+</div><!-- /container -->
+</div><!-- /color -->
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!-- Two Column Map Block -->
+
+<div id="" style="background:#fcfcfc">
+
+<div class="container choc-section">
+
+ <div class="row">
+               
+                 
+<div class="text-center"><h1>Follow us for the latest on what&#039;s happening @chocchildrens!</h1></div>
+
+       <div class="col-sm-12">
+
+
+<div class="hidden-xs">
+<ul class="juicer-feed" data-feed-id="chocchildrens" data-name="chocchildrens" data-per="4" data-pages="1"><h1 class="referral"><a href="http://www.juicer.io">Powered by Juicer</a></h1></ul>
+<style>
+  .juicer-feed .j-message p {font-family: Open Sans; font-size: 90%;}<br />
+</style>
+</div>
+<div class="visible-xs">
+<ul class="juicer-feed" data-feed-id="chocchildrens" data-name="chocchildrens" data-per="3" data-pages="1"><h1 class="referral"><a href="http://www.juicer.io">Powered by Juicer</a></h1></ul>
+<style>
+  .juicer-feed .j-message p {font-family: Open Sans; font-size: 90%;}<br />
+</style>
+</div>
+
+
+
+
+</div><!-- /column -->
+
+
+</div><!-- /row -->
+
+</div><!-- /container -->
+</div><!-- /color -->
+
+
+
+ 
+
+ 
+
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+
+
+
+
+<!-- HTML Block -->
+
+<div style="background-color: #9ccc78;">
+<div class="container choc-section"><style>.hs-form fieldset {max-width: 100% !important;}
+.hs-form .hs-form-field > label {font-size: .75em;}
+body .hs-button.primary,
+body input[type="submit"],
+body input[type="button"] {line-height:1.0em;}</style>
+<div id="sign-up" class="choc-menu-xprnt" style="padding: 20px; margin-top: 60px; text-align: center; background-color: rgba(255, 255, 255, 0.5);" align="center">
+<h4 style="margin-bottom: 0px; text-align: center;">Grow your parenting toolkit with monthly tips from our pediatric experts.</h4>
+<p style="text-align: center;">(You can unsubscribe at any time.)</p>
+<p><!--[if lte IE 8]><script charset="utf-8" type="text/javascript" src="//js.hsforms.net/forms/v2-legacy.js"></script><![endif]--><script charset="utf-8" type="text/javascript" src="//js.hsforms.net/forms/v2.js"></script><script>
+  hbspt.forms.create({
+	portalId: "2224635",
+	formId: "d70513ad-b96f-43b9-8d38-8dc566fc260c",
+	css: ""
+});</script></div>
+</div>
+</div>
+
+<!-- /HTML Block -->
+
+
+
+
+
+<!-- News and Events Feeds -->
+<div id="news-events-feeds" style="background:#f5f5f5">
+<div class="container choc-section no-print">
+
+<div class="text-center"><h1>News and Events</h1></div>
+<div class="row">
+
+   <div class="col-sm-3">
+
+<div class="choc-section-subheader">PRESS ROOM</div>
+
+
+
+                                
+           <div class="choc-feeds-text"><p><a href="https://www.choc.org/news/choc-childrens-receives-transformational-gift-from-cherese-mari-laulhere-foundation-to-expand-pediatric-mental-health-care/"
+                    title="Posted 21 November 2019 | 12:28 am">
+                   CHOC Children’s Receives Transformational Gift from  Cherese Mari Laulhere Foundation to Expand Pediatric Mental Health Care                </a></p></div>
+                    
+           <div class="choc-feeds-text"><p><a href="https://www.choc.org/news/choc-childrens-names-new-neonatology-nursing-director/"
+                    title="Posted 14 August 2019 | 8:09 pm">
+                   CHOC Children’s names new neonatology nursing director                </a></p></div>
+                    
+           <div class="choc-feeds-text"><p><a href="https://www.choc.org/news/choc-welcomes-new-performance-excellence-leader/"
+                    title="Posted 12 July 2019 | 3:50 pm">
+                   CHOC Welcomes New Performance Excellence Leader                </a></p></div>
+                    
+           <div class="choc-feeds-text"><p><a href="https://www.choc.org/news/choc-childrens-hospital-honored-with-resuscitation-recognition-award/"
+                    title="Posted 21 June 2019 | 5:00 pm">
+                   CHOC Children’s Hospital honored with resuscitation recognition award                </a></p></div>
+            
+<a href="https://www.choc.org/content/news/"><button type="button" class="btn btn-default">More News</button></a>
+<hr class="hrmobile visible-xs">
+
+</div>
+
+
+ <div class="col-sm-3">
+
+<div class="choc-section-subheader">COMMUNITY EVENTS</div>
+
+
+
+                                
+             <div class="choc-feeds-text"><p><a href="https://www.choc.org/events/giving-tuesday/"
+                    title="Posted ">
+                   Giving Tuesday                </a></p></div>
+                    
+             <div class="choc-feeds-text"><p><a href="https://www.choc.org/events/tree-of-dreams-holiday-event/"
+                    title="Posted ">
+                   Tree of Dreams Holiday Event                </a></p></div>
+                    
+             <div class="choc-feeds-text"><p><a href="https://www.choc.org/events/planet-beauty-annual-holiday-charity-mixer/"
+                    title="Posted ">
+                   Planet Beauty Annual Holiday Charity Mixer                </a></p></div>
+                    
+             <div class="choc-feeds-text"><p><a href="https://www.choc.org/events/mother-goose-58th-annual-christmas-tree-brunch/"
+                    title="Posted ">
+                   Mother Goose 58th Annual Christmas Tree Brunch                </a></p></div>
+                    
+             <div class="choc-feeds-text"><p><a href="https://www.choc.org/events/holiday-toy-drive-donations/"
+                    title="Posted ">
+                   Holiday Toy Drive and Donations                </a></p></div>
+            
+<a href="https://www.choc.org/content/events/fundraisingevents/"><button type="button" class="btn btn-default">More Community Events</button></a>
+<hr class="hrmobile visible-xs">
+
+</div>
+
+
+
+   <div class="col-sm-3">
+
+<div class="choc-section-subheader">CLINICAL EVENTS</div>
+
+
+
+                                
+            <div class="choc-feeds-text"><p><a href="https://www.choc.org/events/optimizing-feeding-outcomes-2020/"
+                    title="Posted ">
+                   Optimizing Feeding Outcomes                </a></p></div>
+                    
+            <div class="choc-feeds-text"><p><a href="https://www.choc.org/events/pediatric-ccrn-exam-review-course-2020/"
+                    title="Posted ">
+                   Pediatric CCRN Exam Review Course 2020                </a></p></div>
+            
+<a href="https://www.choc.org/content/clinicalevents/"><button type="button" class="btn btn-default">More Clinical Events</button></a>
+<hr class="hrmobile visible-xs">
+
+</div>  
+
+
+
+  <div class="col-sm-3">
+
+<div class="choc-section-subheader">BLOG</div>
+
+
+
+                                
+            <div class="choc-feeds-text"><p><a href="https://blog.chocchildrens.org/what-were-thankful-for-this-year-2019/"
+                    title="Posted 26 November 2019 | 12:16 am">
+                   What we’re thankful for this year: 2019                </a></p></div>
+                    
+            <div class="choc-feeds-text"><p><a href="https://blog.chocchildrens.org/my-daughters-journey-from-seizures-to-surgery/"
+                    title="Posted 25 November 2019 | 8:00 pm">
+                   My daughter’s journey from seizures to surgery                </a></p></div>
+                    
+            <div class="choc-feeds-text"><p><a href="https://blog.chocchildrens.org/new-epilepsy-diagnosis-faq/"
+                    title="Posted 19 November 2019 | 6:00 pm">
+                   Dealing with a new epilepsy diagnosis: Frequently asked questions                </a></p></div>
+                    
+            <div class="choc-feeds-text"><p><a href="https://blog.chocchildrens.org/choc-resident-follows-in-his-fathers-footsteps/"
+                    title="Posted 12 November 2019 | 7:03 pm">
+                   CHOC resident follows in his father’s footsteps                </a></p></div>
+                    
+            <div class="choc-feeds-text"><p><a href="https://blog.chocchildrens.org/honoring-the-veterans-among-our-mighty-brigade/"
+                    title="Posted 10 November 2019 | 9:06 pm">
+                   Honoring the Veterans Among our Mighty Brigade                </a></p></div>
+            
+<a href="https://blog.chocchildrens.org/"><button type="button" class="btn btn-default">More Blog Articles</button></a>
+<hr class="hrmobile visible-xs">
+
+</div>
+
+       
+     
+</div>
+</div>
+</div>
+
+
+
+</div><!--/main -->
+<div id="footer" role="contentinfo">
+
+<div data-stellar-ratio="1.1" class="pxphoto px1 hidden-xs" style="margin-bottom: -20px;">
+<div class="container no-print">
+<div class="row">
+
+     <div class="col-md-12 text-center">
+
+    <!--begin icons-->
+
+<p style="padding-top: 100px;"><img src="/wp/wp-content/uploads/2018/11/LLC-type-reverse-shaded.png" alt="Long Live Childhood" align="absmiddle" width="400" /></p>
+
+<p style="padding-top: 300px;">
+<a href="https://facebook.com/chocchildrens" target="_blank" rel="me" title="Like Us"><img src="//www.choc.org/images/socmed/fb.png" alt="Facebook" border="0" style="width:32px;margin:4px;" /></a>
+<a href="https://twitter.com/chocchildrens" target="_blank" rel="me" title="Follow Us"><img src="//www.choc.org/images/socmed/tw.png" alt="Twitter" border="0" style="width:32px;margin:4px;" /></a>
+<a href="https://pinterest.com/chocchildrens" target="_blank" rel="me" title="Pinterest"><img src="//www.choc.org/images/socmed/pt.png" alt="Pinterest" border="0" style="width:32px;margin:4px;" /></a>
+<a href="https://instagram.com/chocchildrens" target="_blank" rel="me" title="Instagram"><img src="//www.choc.org/images/socmed/ig.png" alt="Instagram" border="0" style="width:32px;margin:4px;" /></a>
+<a href="https://www.snapchat.com/add/chocchildrens" target="_blank" rel="me" title="Snapchat"><img src="//www.choc.org/images/socmed/sc.png" alt="Snapchat" border="0" style="width:32px;margin:4px;" /></a>
+<a href="https://www.linkedin.com/company/choc-childrens" target="_blank" rel="me" title="Linked In"><img src="//www.choc.org/images/socmed/li.png" alt="LinkedIn" border="0" style="width:32px;margin:4px;" /></a>
+<a href="https://youtube.com/chocchildrens" target="_blank" rel="me" title="You Tube"><img src="//www.choc.org/images/socmed/yt.png" alt="YouTube" border="0" style="width:32px;margin:4px;" /></a>
+
+<!--end icons-->
+
+</p>
+
+<p>
+
+<a href="http://health.usnews.com/best-hospitals/pediatric-rankings" target="_blank"><img src="//www.choc.org/images/best-childrens-hospitals.png" alt="US News " width="55" border="0" /></a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="/about/#honors"><img src="//choc.org/wp/wp-content/uploads/2014/03/honors_cape.png" alt="CAPE Award" width="71" border="0" /></a>&nbsp;&nbsp;&nbsp;<a href="//www.choc.org/news/choc-childrens-hospital-achieves-magnet-recognition-again/" target="_blank"><img src="//choc.org/wp/wp-content/uploads/2014/03/honors_magnet.png" alt="Magnet" width="71" border="0" /></a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="http://www.charitynavigator.org/index.cfm?bay=search.summary&orgid=6482#.VUvJxfnF98E" target="_blank"><img style="padding-bottom:5px;" border="0" src="//www.choc.org/wp/wp-content/uploads/2015/05/foundation-charity-navigator-75.jpg" alt="Charity Navigator Four Star Charity" width="55"/></a>
+
+<p />
+
+</div>
+</div>
+</div>
+</div>
+
+<!--mobile version-->
+
+<div class="visible-xs" style="margin-bottom: -20px; background-image: url(//www.choc.org/wp/wp-content/uploads/2018/11/llc-parallax-xs.jpg); height: 800px; background-position: center; background-size: cover;">
+<div class="container no-print">
+<div class="row">
+
+     <div class="col-md-12 text-center">
+
+    <!--begin icons-->
+
+<p style="padding-top: 100px;"><img src="/wp/wp-content/uploads/2018/11/LLC-type-reverse-shaded.png" alt="Long Live Childhood" align="absmiddle" width="400" /></p>
+
+<p style="padding-top: 500px;">
+<a href="https://facebook.com/chocchildrens" target="_blank" rel="me" title="Like Us"><img src="//www.choc.org/images/socmed/fb.png" alt="Facebook" border="0" style="width:32px;margin:4px;" /></a>
+<a href="https://twitter.com/chocchildrens" target="_blank" rel="me" title="Follow Us"><img src="//www.choc.org/images/socmed/tw.png" alt="Twitter" border="0" style="width:32px;margin:4px;" /></a>
+<a href="https://pinterest.com/chocchildrens" target="_blank" rel="me" title="Pinterest"><img src="//www.choc.org/images/socmed/pt.png" alt="Pinterest" border="0" style="width:32px;margin:4px;" /></a>
+<a href="https://instagram.com/chocchildrens" target="_blank" rel="me" title="Instagram"><img src="//www.choc.org/images/socmed/ig.png" alt="Instagram" border="0" style="width:32px;margin:4px;" /></a>
+<a href="https://www.snapchat.com/add/chocchildrens" target="_blank" rel="me" title="Snapchat"><img src="//www.choc.org/images/socmed/sc.png" alt="Snapchat" border="0" style="width:32px;margin:4px;" /></a>
+<a href="https://www.linkedin.com/company/choc-childrens" target="_blank" rel="me" title="Linked In"><img src="//www.choc.org/images/socmed/li.png" alt="LinkedIn" border="0" style="width:32px;margin:4px;" /></a>
+<a href="https://youtube.com/chocchildrens" target="_blank" rel="me" title="You Tube"><img src="//www.choc.org/images/socmed/yt.png" alt="YouTube" border="0" style="width:32px;margin:4px;" /></a>
+
+<!--end icons-->
+
+</p>
+
+</div>
+</div>
+</div>
+</div>	
+﻿<div class="chocbrown no-print">
+<div class="container">
+<div class="row" style="padding-top:20px;padding-bottom:20px;">
+
+<div class="col-sm-3" style="text-align: center;">
+<p style="margin-top: 40px;"><img src="/wp/wp-content/uploads/2014/03/ucirvine.png" alt="UC Irvine" align="absmiddle" width="100" /></p>
+
+<p><em>CHOC Children's is affiliated with the<br />UC Irvine School of Medicine</em></p>
+
+<hr class="hrmobile visible-xs">
+
+</div><!-- /column -->
+
+<div class="col-sm-3" style="text-align: center; border-left: 1px solid white;">
+
+<div class="choc-footer-link">
+<p>CHOC LINKS<br />
+
+<a href="/about/contact-us/?link=footer">Contact Us</a><br />
+
+<a href="/locations/choc-childrens-main-campus-orange/?link=footer">Directions</a><br />
+
+<a href="/content/locations/?link=footer&orderby=title&order=asc">Locations</a><br />
+
+<a href="/pressroom/?link=footer">Pressroom</a><br />
+
+<a href="/careers/?link=footer">Careers</a><br />
+
+<a href="/giving/?link=footer">Giving</a><br />
+</p>
+</div><!-- /footer-links -->
+
+<hr class="hrmobile visible-xs">
+
+</div><!-- /column -->
+
+<div class="col-sm-3" style="text-align: center;">
+
+<div class="choc-footer-link">
+<p>I WANT TO...<br />
+
+<a href="/find-a-provider/?link=footer">Find a Doctor</a><br />
+
+<a href="/chocdocs/referrals/?link=footer">Refer a Patient</a><br />
+
+<a href="/patients-family/pay-bill/?link=footer">Pay My Bill</a><br />
+
+<a href="/patients-family/medical-records-billing/?link=footer">Request Medical Records</a><br />
+
+<a href="/choc-link/?link=footer">Access CHOC Link</a><br />
+
+<a href="/volunteer/?link=footer">Volunteer</a><br />
+</p>
+
+</div><!-- /footer-links -->
+
+<hr class="hrmobile visible-xs">
+
+</div><!-- /column -->
+
+<div class="col-sm-3" style="text-align: center;">
+
+<div class="choc-footer-link">
+
+<p>LEGAL<br />
+
+<a href="/about/policies-legal/?link=footer">Privacy Notice</a><br />
+
+<a href="/about/policies-legal/?link=footer">Patient Rights</a><br />
+
+<a href="/about/social-media-guidelines/?link=footer">Social Media Guidelines</a><br />
+
+<a href="/about/policies-legal/notice-of-nondiscrimination/?link=footer">Notice of Nondiscrimination</a><br />
+
+<a href="/about/policies-legal/?link=footer">Other Policies</a><br />
+</p>
+
+</div><!-- /footer-links -->
+
+</div><!-- /column -->
+</div><!-- /row -->
+</div> <!-- /container -->
+</div> <!-- /chocbrown -->
+
+<div id='toTop'>
+<a href="#nav"> <span style="font-size: 3.2em;" class="glyphicon glyphicon-upload"></span> </a>
+</div>
+
+<!-- language accessibility -->
+<div class="chocdarkbrown" style="background-color: #cccccc;">
+<div class="container text-center" style="padding-top:20px;padding-bottom:10px;">
+<div class="row text-center">
+
+Language Assistance: <a href="/about/policies-legal/notice-of-nondiscrimination/#Spanish">Español</a> | <a href="/about/policies-legal/notice-of-nondiscrimination/#Chinese">繁體中文</a> | <a href="/about/policies-legal/notice-of-nondiscrimination/#Vietnamese">Tiếng Việt</a> | <a href="/about/policies-legal/notice-of-nondiscrimination/#Tagalog">Tagalog</a> | <a href="/about/policies-legal/notice-of-nondiscrimination/#Korean">한국어</a> | <a href="/about/policies-legal/notice-of-nondiscrimination/#Armenian">Հայերեն</a> | <a href="/about/policies-legal/notice-of-nondiscrimination/#Farsi">فارسی</a> | <a href="/about/policies-legal/notice-of-nondiscrimination/#Russian">Русский</a> | <a href="/about/policies-legal/notice-of-nondiscrimination/#Japanese">日本語</a> | <a href="/about/policies-legal/notice-of-nondiscrimination/#Arabic">العربية</a> | <a href="/about/policies-legal/notice-of-nondiscrimination/#Punjabi">ਪੰਜਾਬੀ </a> | <a href="/about/policies-legal/notice-of-nondiscrimination/#Cambodian">ខ្មែរ </a> | <a href="/about/policies-legal/notice-of-nondiscrimination/#Hmong">Hmoob</a> | <a href="/about/policies-legal/notice-of-nondiscrimination/#Hindi">हिंदी</a> | <a href="/about/policies-legal/notice-of-nondiscrimination/#Thai">ภาษาไทย</a>
+    
+</div>
+</div> <!-- /container -->
+</div> <!-- /chocdarkbrown -->
+<!-- /language accessibility -->
+
+<div class="chocdarkbrown">
+<div class="container text-center" style="padding-top:20px;padding-bottom:70px;">
+<div class="row text-center" itemscope itemtype="http://data-vocabulary.org/Organization" style="line-height: 60%;">
+
+    ©2019 <span itemprop="name">CHOC Children's</span><span class="visible-xs"><br /></span> 
+    
+    <span itemprop="address" itemscope 
+      itemtype="http://data-vocabulary.org/Address">
+      <span itemprop="street-address">1201 W La Veta Ave</span>, 
+      <span itemprop="locality">Orange</span>, 
+      <span itemprop="region">CA</span>.
+    </span><span class="visible-xs"><br /></span>
+    Phone: <span itemprop="tel">714-997-3000</span>.&nbsp;
+ <a href="http://www.choc.org" itemprop="url" style="color:#eeefea;">www.choc.org</a>.
+
+<span class="visible-xs"><br /></span>
+<span class="hidden-xs"> | </span>A 501(c)(3) Organization
+
+</div>
+</div> <!-- /container -->
+</div> <!-- /chocdarkbrown -->
+
+</div><!-- /footer -->
+
+<script type='text/javascript' src='https://www.choc.org/wp/wp-includes/js/wp-embed.min.js?ver=5.2.4'></script>
+
+<!-- javascript -->
+   
+<script async src="https://www.choc.org/wp/wp-content/themes/choc-bootstrap-3/bootstrap/js/bootstrap.min.js"></script>
+<script async src="https://www.choc.org/wp/wp-content/themes/choc-bootstrap-3/js/accordion.toggle.js"></script>
+<script async src="https://www.choc.org/wp/wp-content/themes/choc-bootstrap-3/stellar/jquery.stellar.js"></script>
+<script async src="https://www.choc.org/wp/wp-content/themes/choc-bootstrap-3/js/scrolltop.js"></script>
+
+<!-- Start of Async HubSpot Analytics Code -->
+  <script type="text/javascript">
+    (function(d,s,i,r) {
+      if (d.getElementById(i)){return;}
+      var n=d.createElement(s),e=d.getElementsByTagName(s)[0];
+      n.id=i;n.src='//js.hs-analytics.net/analytics/'+(Math.ceil(new Date()/r)*r)+'/2224635.js';
+      e.parentNode.insertBefore(n, e);
+    })(document,"script","hs-analytics",300000);
+  </script>
+<!-- End of Async HubSpot Analytics Code -->
+
+</body>
+</html>
+
+<!-- Dynamic page generated in 1.129 seconds. -->
+<!-- Cached page generated by WP-Super-Cache on 2019-11-27 20:59:37 -->
+
+<!-- Compression = gzip -->
